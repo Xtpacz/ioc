@@ -1,0 +1,21 @@
+[
+  {
+    "name": "president",
+    "className": "com.xtpacz.bean.President"
+  },
+  {
+    "name": "hand",
+    "className": "com.xtpacz.bean.Hand"
+  },
+  {
+    "name": "leg",
+    "className": "com.xtpacz.bean.Leg",
+    "constructorArgs": [
+      {
+        "index": 1,
+        "name": "name",
+        "value": "hello"
+      }
+    ]
+  }
+]
